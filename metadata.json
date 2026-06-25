@@ -1,0 +1,6 @@
+{
+  "name": "Cat Customizer",
+  "description": "一个可以自由选择品种、配色、配饰，并伴有搞笑、可爱动作的喵喵游乐场",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
